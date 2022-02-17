@@ -1,0 +1,9 @@
+
+2022-02-17
+1. Check if you are able to connect to the URLs using VPN. If not work with Admin team and get it resolved
+2. Dispaly images provided in (images folder) against the servers
+
+URL to check for 52: https://192.168.169.81/api/v1/about - Display the Release Version
+URL to check for 81: https://192.168.169.81/api/v1/about - Display thre Release Version
+
+Integrations URLs - check the root, parse json to get the version and display version too
