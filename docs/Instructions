@@ -7,3 +7,11 @@ URL to check for 52: https://192.168.169.81/api/v1/about - Display the Release V
 URL to check for 81: https://192.168.169.81/api/v1/about - Display thre Release Version
 
 Integrations URLs - check the root, parse json to get the version and display version too
+
+2022- 02-19
+
+1. Strategy change. We will have a Java bankend Application to get the status of servers
+2. Configurable Input, JSON output
+3. Convert this as serverless service (Springboot)
+4. Host this in 81 server - Get help from Maharajan
+5. Next big project will be to genrate SDK out of SAP DI swagger (apification)
